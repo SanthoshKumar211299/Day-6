@@ -1,6 +1,5 @@
 //1)Write a class person to hold all details
-/*c
-lass person{
+/*class person{
     constructor(name,age,Gender,martialStatus,contact,email){
        this.name=name;
        this.age=age;
